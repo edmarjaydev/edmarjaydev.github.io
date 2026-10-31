@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 690" role="img" aria-labelledby="title desc">
+<title id="title">Profile photo placeholder</title><desc id="desc">Abstract portrait illustration placeholder to replace with a professional photo.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#dbeafe"/><stop offset="1" stop-color="#94a3b8"/></linearGradient></defs>
+<rect width="600" height="690" rx="28" fill="url(#bg)"/><circle cx="300" cy="245" r="112" fill="#64748b" opacity=".75"/><path d="M88 650c12-150 91-235 212-235s200 85 212 235" fill="#334155"/><path d="M210 260c15 67 52 105 90 105s75-38 90-105" fill="#cbd5e1" opacity=".5"/><text x="300" y="600" text-anchor="middle" font-family="Arial,sans-serif" font-size="20" font-weight="700" fill="#fff">REPLACE WITH YOUR PHOTO</text>
+</svg>
