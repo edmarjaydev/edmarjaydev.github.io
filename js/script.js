@@ -101,7 +101,7 @@
       event.preventDefault();
 
       // TODO: Replace with your actual Google Apps Script Web App URL
-      const scriptURL = 'https://script.google.com/macros/s/AKfycby3d27eM4Ws-eFOIkNApsqGhDljjrtlmkhQ0XTwb2nLTaxeCzKNZjBoJxlFxTEaCV3hhQ/exec';
+      const scriptURL = 'https://script.google.com/macros/s/AKfycbzR8RZIc6eTNS2pyQY6vq3W2V5DITvtXfOsElFEQbXYZZDV5K3qobYLrzaVw3mJlphO/exec';
 
       if (scriptURL.includes('YOUR_GOOGLE_APPS_SCRIPT_WEB_APP_URL')) {
         if (status) {
