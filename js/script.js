@@ -103,7 +103,7 @@
       // TODO: Replace with your actual Google Apps Script Web App URL
       const scriptURL = 'https://script.google.com/macros/s/AKfycby3d27eM4Ws-eFOIkNApsqGhDljjrtlmkhQ0XTwb2nLTaxeCzKNZjBoJxlFxTEaCV3hhQ/exec';
 
-      if (scriptURL.includes('https://script.google.com/macros/s/AKfycby3d27eM4Ws-eFOIkNApsqGhDljjrtlmkhQ0XTwb2nLTaxeCzKNZjBoJxlFxTEaCV3hhQ/exec')) {
+      if (scriptURL.includes('YOUR_GOOGLE_APPS_SCRIPT_WEB_APP_URL')) {
         if (status) {
           status.textContent = "Please replace YOUR_GOOGLE_APPS_SCRIPT_WEB_APP_URL in js/script.js with your deployed Google Apps Script Web App URL.";
           status.style.color = "#ef4444";
